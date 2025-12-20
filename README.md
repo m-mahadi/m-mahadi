@@ -5,7 +5,7 @@ I am an engineer and entrepreneur focused on building **Sovereign Intelligence**
 
 ---
 
-## ⚡ The 365-Day Odyssey (Started Dec 28, 2025)
+## ⚡ The 365-Day Odyssey (Started Dec 27, 2025)
 I am currently in the midst of a rigorous, year-long deep-dive into AI research and engineering.
 - **Deep Research:** Scaling laws, Transformers, and Interpretability.
 - **Analytical Coding:** Implementing SOTA papers from scratch to build a foundation for AGI.

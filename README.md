@@ -9,6 +9,7 @@ I am an engineer and entrepreneur focused on building **Sovereign Intelligence**
 I am currently in the midst of a rigorous, year-long deep-dive into AI research and engineering.
 - **Deep Research:** Scaling laws, Transformers, and Interpretability.
 - **Analytical Coding:** Implementing SOTA papers from scratch to build a foundation for AGI.
+[![365-Day Journey](https://img.shields.io/badge/365_Day_Journey-Daily_Log-blue?style=for-the-badge)](logs/daily-progress.md) [![Days Complete](https://img.shields.io/badge/Days-X%2F365-green?style=for-the-badge)](frontier-ai-365/logs/daily-progress.md)
 
 ## Focus Areas
 - **Vertical-Specific LLMs:** Developing high-accuracy RAG systems for specialized, high-stakes domains.
@@ -20,7 +21,6 @@ My mission is to contribute to **Frontier AI Labs** and eventually leverage AGI 
 
 ---
 ## 📈 Proof of Work
-[![365-Day Journey](https://img.shields.io/badge/365_Day_Journey-Daily_Log-blue?style=for-the-badge)](logs/daily-progress.md) [![Days Complete](https://img.shields.io/badge/Days-X%2F365-green?style=for-the-badge)](logs/daily-progress.md)
 [![Mahadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-mahadi&show_icons=true&theme=tokyonight)](https://github.com/m-mahadi)
 
 *“Icarus didn't fall because of hubris; he fell because he was the only one brave enough to touch the sun. I’m building better wings.”*

@@ -20,6 +20,7 @@ My mission is to contribute to **Frontier AI Labs** and eventually leverage AGI 
 
 ---
 ## 📈 Proof of Work
+[![365-Day Journey](https://img.shields.io/badge/365_Day_Journey-Daily_Log-blue?style=for-the-badge)](logs/daily-progress.md) [![Days Complete](https://img.shields.io/badge/Days-X%2F365-green?style=for-the-badge)](logs/daily-progress.md)
 [![Mahadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-mahadi&show_icons=true&theme=tokyonight)](https://github.com/m-mahadi)
 
 *“Icarus didn't fall because of hubris; he fell because he was the only one brave enough to touch the sun. I’m building better wings.”*

@@ -9,7 +9,7 @@ I am an engineer and entrepreneur focused on building **Sovereign Intelligence**
 I am currently in the midst of a rigorous, year-long deep-dive into AI research and engineering.
 - **Deep Research:** Scaling laws, Transformers, and Interpretability.
 - **Analytical Coding:** Implementing SOTA papers from scratch to build a foundation for AGI.
-| **Kickoff** | Dec 27, 2025 | [![Daily Log](https://img.shields.io/badge/Journey-Daily_Log-blue?style=flat-square)](frontier-ai-365/logs/daily-progress.md) |
+logs/daily-progress.md
 
 ## Focus Areas
 - **Vertical-Specific LLMs:** Developing high-accuracy RAG systems for specialized, high-stakes domains.

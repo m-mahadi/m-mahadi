@@ -6,7 +6,7 @@ I don't just use AI tools—I build them from the ground up. Based in Dhaka, stu
 ---
 
 ## The 365-Day Deep Dive (Started Dec 27, 2025)
-Currently executing a year-long research sprint into frontier AI. Not watching tutorials—implementing papers from scratch, writing backpropagation in pure NumPy, and understanding every matrix multiplication that makes a Transformer tick.
+Currently executing a year-long study sprint into frontier AI. My goal is to be one of the best AI Product Engineer in the world.
 
 **Core Focus:**
 - Transformer architectures and scaling laws

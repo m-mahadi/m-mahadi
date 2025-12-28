@@ -1,5 +1,5 @@
 # Moniruzzaman Mahadi
-### Founder | AI Research Engineer Building Intelligent Systems from First Principles
+### AI Engineer 
 
 I don't just use AI tools—I build them from the ground up. Based in Dhaka, studying at North South University while architecting the engines of bilingual intelligence and deconstructing the mathematical foundations that make LLMs work.
 

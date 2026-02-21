@@ -3,22 +3,6 @@
 
 I don't just use AI tools—I build them from the ground up. Based in Dhaka, studying at North South University while architecting the engines of bilingual intelligence and deconstructing the mathematical foundations that make LLMs work.
 
----
-
-## The 365-Day Deep Dive (Started Dec 27, 2025)
-Currently executing a year-long study sprint into frontier AI. My goal is to be one of the best AI Product Engineer in the world.
-
-**Core Focus:**
-- Transformer architectures and scaling laws
-- RAG systems and LLM orchestration for production
-- Interpretability and model internals
-
-**Daily Progress:**
-<br>
-[![](https://img.shields.io/badge/DAILY_LOG-TRACK_THE_WORK-73daca?style=for-the-badge&logo=gitbook&logoColor=1a1b26)](https://github.com/m-mahadi/frontier-ai-365/blob/main/logs/daily-progress.md)
-
----
-
 ## What I'm Building
 
 **Current Projects:**
@@ -29,10 +13,6 @@ Building vertical-specific AI systems that solve real problems in underserved do
 - Agentic workflows that handle complex, multi-step reasoning
 - Bootstrapped products that fund deeper research
 
-**The Hard Mode Approach:**
-I prioritize understanding over convenience. That means implementing algorithms from scratch before using frameworks, writing the calculus before abstracting it away, and knowing exactly what happens when you call `.backward()`.
-
----
 
 ## The Methodology
 

@@ -11,12 +11,6 @@ Right now I am working toward my first startup, writing more seriously, and tryi
 - Music, crochet, card magic, and the small crafts that teach patience
 - Shipping small products and documenting the process honestly
 
-## Recent Work
-
-- **Typi** - a typewriter-style writing desk that saves Markdown notes to Obsidian
-- A first startup in progress
-- Notes, essays, prototypes, and tiny experiments around AI and product taste
-
 ## Elsewhere
 
 - Blog: <https://m-mahadi.github.io>

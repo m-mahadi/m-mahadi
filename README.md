@@ -1,25 +1,26 @@
 # Moniruzzaman Mahadi
 
-I build AI tools for learning, writing, and legal access.
+I like building things and learning in public.
 
-Right now I am working on **Bujhchi**, an AI-first education project, and writing in public about product taste, agents, evaluation, and the messy process of becoming a better engineer.
+Right now I am working toward my first startup, writing more seriously, and trying to become the kind of builder whose taste shows up in the work.
 
 ## Current Focus
 
-- AI systems that help people think, not just autocomplete
-- Education tools for students who need better feedback loops
-- Human-feeling interfaces for writing, learning, and note-taking
-- Small shipped products, documented clearly
+- AI, software, and interfaces that feel useful and human
+- Writing, reading, and making videos as ways to think clearly
+- Music, crochet, card magic, and the small crafts that teach patience
+- Shipping small products and documenting the process honestly
 
 ## Recent Work
 
 - **Typi** - a typewriter-style writing desk that saves Markdown notes to Obsidian
-- **Bujhchi** - my first startup, focused on AI and education
-- **Legal/annotation tools** - experiments around legal information retrieval and ground-truth workflows
+- A first startup in progress
+- Notes, essays, prototypes, and tiny experiments around AI and product taste
 
 ## Elsewhere
 
 - Blog: <https://m-mahadi.github.io>
 - GitHub: <https://github.com/m-mahadi>
+- X: <https://x.com/m_mahadi__>
 
 I am trying to build in public without turning into a content-person caricature. Mostly: ship, write, learn, repeat.
